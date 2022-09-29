@@ -20,6 +20,10 @@ Resume:  [Mohamad Siysinyuy Resume](https://msb-geneasocial.herokuapp.com/porfol
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :Craftsmanship_note: I am a trained tailor and good in Embroidery, still working on a site to show case my craft<br>
  
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mrsuber&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsuber&langs_count=5&theme=tokyonight)]()
+
  
 <!--
 **ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
